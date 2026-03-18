@@ -86,7 +86,7 @@ class ChidiebubeUgwunweze:
 <div align="center">
 
 <a href="#">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChidiebubeUgwunweze&repo=object-detection-pipeline&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00ffcc&text_color=c8d5e8&icon_color=9d5cff" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChidiebubeUgwunweze&repo=nigeria_30day_growth_dashboard&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00ffcc&text_color=c8d5e8&icon_color=9d5cff" />
 </a>
 &nbsp;
 <a href="#">
