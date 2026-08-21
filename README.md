@@ -1,17 +1,16 @@
 <div align="center">
 
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Eze%20Chidiebube%20Ugwunweze&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Computer%20Vision&descAlignY=55&descSize=16&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Eze%20Chidiebube%20Ugwunweze&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20Computer%20Vision&descAlignY=55&descSize=16&animation=fadeIn"/>
 
 </div>
 
 <div align="center">
     
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=00FFCC&center=true&vCenter=true&multiline=true&width=600&height=90&lines=Building+intelligent+systems+that+see+%26+learn...;Turning+raw+data+into+real+insight+%F0%9F%A7%A0;Lagos%2C+Nigeria+%F0%9F%87%B3%F0%9F%87%AC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=00FFCC&center=true&vCenter=true&multiline=true&width=600&height=90&lines=Building+intelligent+systems+that+see+%26+learn...;Turning+raw+data+into+real+insight+%F0%9F%A7%A0;Abuja%2C+Nigeria+%F0%9F%87%B3%F0%9F%87%AC)](https://git.io/typing-svg)
 
 </div>
-
 ---
 ## 🧬 About Me
 
@@ -20,7 +19,7 @@ class ChidiebubeUgwunweze:
     def __init__(self):
         self.name       = "Eze Chidiebube Ugwunweze"
         self.handle     = "@ChidiebubeUgwunweze"
-        self.location   = "Lagos, Nigeria 🇳🇬"
+        self.location   = "Abuja, Nigeria 🇳🇬"
         self.focus      = ["Data Science", "Machine Learning", "Computer Vision", "AI"]
         self.currently  = ["Learning FastAPI 🚀", "Mastering SQL 📊"]
         self.available  = True  # Open to collaborations!
