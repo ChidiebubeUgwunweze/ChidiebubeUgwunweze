@@ -79,50 +79,6 @@ class ChidiebubeUgwunweze:
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="#">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChidiebubeUgwunweze&repo=nigeria_30day_growth_dashboard&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00ffcc&text_color=c8d5e8&icon_color=9d5cff" />
-</a>
-&nbsp;
-<a href="#">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChidiebubeUgwunweze&repo=analytics-dashboard&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00ffcc&text_color=c8d5e8&icon_color=9d5cff" />
-</a>
-
-</div>
-
-<br/>
-
-### 🎯 Real-Time Object Detection Pipeline
-> End-to-end computer vision system using **YOLOv8** + **Roboflow** for custom dataset annotation and **OpenCV** for live inference. Capable of detecting and classifying objects in real-time video streams.
-
-`YOLO` `OpenCV` `Roboflow` `Python`
-
----
-
-### 📊 Interactive Analytics Dashboard
-> Multi-dataset analytics dashboard built with **Dash** + **Plotly** — live filters, drill-down charts, and clean UX designed for non-technical stakeholders.
-
-`Dash` `Plotly` `Pandas` `Python`
-
----
-
-### 🧠 ML Classification System
-> Full pipeline from feature engineering to **Streamlit** deployment — automated model selection, cross-validation, evaluation metrics, and a live prediction interface.
-
-`Scikit-learn` `Streamlit` `NumPy` `Python`
-
----
-
-### 📈 EDA & Visualisation Suite
-> Deep exploratory data analysis toolkit producing publication-quality charts and statistical summaries using **Matplotlib**, **Seaborn**, and **Plotly**.
-
-`Matplotlib` `Seaborn` `Plotly` `Pandas`
-
----
-
 ## 📅 Contribution Activity
 
 <div align="center">
