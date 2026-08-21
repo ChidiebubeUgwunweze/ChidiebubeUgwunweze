@@ -6,9 +6,9 @@
 </div>
 
 <div align="center">
-
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=00FFCC&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Building+intelligent+systems+that+see+%26+learn...;Turning+raw+data+into+real+insight+%F0%9F%A7%A0;Lagos%2C+Nigeria+%F0%9F%87%B3%F0%9F%87%AC)](https://git.io/typing-svg)
+
 
 
 </div>
