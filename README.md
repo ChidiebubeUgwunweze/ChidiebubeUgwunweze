@@ -1,9 +1,10 @@
 <div align="center">
 
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Eze%20Chidiebube%20Ugwunweze&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20Computer%20Vision&descAlignY=55&descSize=16&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Eze%20Chidiebube%20Ugwunweze&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Data%20Analyst%20%7C%20Applied%20ML%20%26%20Computer%20Vision&descAlignY=55&descSize=16&animation=fadeIn"/>
 
 </div>
+
 
 <div align="center">
 
