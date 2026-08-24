@@ -33,8 +33,12 @@ class ChidiebubeUgwunweze:
 
 ## 🚀 Featured Work
 
+**[NMDPRA AI Dashboard](https://github.com/ChidiebubeUgwunweze/nmdpra-ai-dashboard-showcase)**
+Prototype intelligence tool that lets users explore petroleum truckout data using plain English questions — no SQL, no Excel, no technical knowledge required.
+*[Live AI Dashboard](https://smart-dashboard-0eg5.onrender.com/)*
+
 **[Nigeria Growth Dashboard](https://github.com/ChidiebubeUgwunweze/nigeria_growth_dashboard)**
-Interactive dashboard visualizing Nigeria's midstream/downstream petroleum growth via bar charts and a live map. *[live dashbaord link](https://nigerian-growth-dashboard.onrender.com/)*
+Interactive dashboard visualizing Nigeria's midstream/downstream petroleum growth via bar charts and a live map. *[Live Growth Dashbaord](https://nigerian-growth-dashboard.onrender.com/)*
 
 **[Sales Performance & Customer Behaviour Analysis](https://github.com/ChidiebubeUgwunweze/Sales_Performance_and_Customer_Behaviour_Analysis)**
 End-to-end analysis of sales performance and customer behavior for a real business context, with actionable recommendations.
