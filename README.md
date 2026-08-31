@@ -39,7 +39,7 @@ Interactive dashboard visualizing Nigeria's midstream/downstream petroleum growt
 **[Sales Performance & Customer Behaviour Analysis](https://github.com/ChidiebubeUgwunweze/Sales_Performance_and_Customer_Behaviour_Analysis)**
 End-to-end analysis of sales performance and customer behavior for a real business context, with actionable recommendations.
 
-**[Enhancing Face Detection in YOLOv8](https://github.com/ChidiebubeUgwunweze/ENHANCING-FACE-DETECTION-IN-YOLOv8-THROUGH-IMAGE-FILTERING-Final-Year-Project-)**
+**[Enhancing Face Detection in YOLOv8](https://github.com/ChidiebubeUgwunweze/Enhancing-Face-Detection-in-YOLOv8-Through-Image-Filtering-Final-Year-Project)**
 Final-year project improving YOLOv8 face detection accuracy using Mean, Median, Gaussian, and Bilateral filtering in OpenCV.
 
 ---
